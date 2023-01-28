@@ -60,6 +60,7 @@ nav {
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
   overflow: hidden;
+  object-fit: cover;
 }
 
 img:before {
@@ -73,6 +74,7 @@ img:before {
   background-image: url('https://media.istockphoto.com/id/1390033645/photo/world-news-background-which-can-be-used-for-broadcast-news.jpg?s=1024x1024&w=is&k=20&c=3sVI2S-wV21z5xOxwZjcjpjEi_ogaB7mJH5Y1TiOZYI=');
   background-size: cover;
   background-position: center;
+  object-fit: cover;
 }
 
 .news-text {
